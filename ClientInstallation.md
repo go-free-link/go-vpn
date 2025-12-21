@@ -34,6 +34,8 @@ OpenVPN Connect 是由 **OpenVPN Inc.** 官方开发并维护的唯一全功能�
 | 平台 | 获取渠道 | 开发者认证 | 
 | ----- | ----- | ----- | 
 | **iOS / iPadOS** | [Apple App Store](https://apps.apple.com/us/app/openvpn-connect/id590379981) | OpenVPN Technologies | 
+| **iOS / iPadOS 本地下载** |  | ios苹果无法提供本地版本 | 
+
 | **Android** | [Google Play Store](https://play.google.com/store/apps/details?id=net.openvpn.openvpn) | OpenVPN | 
 |**Android Weblink 浏览器可下载**|[https://eb5e7388c3df147b74dd2379b7cf8323.r2.cloudflarestorage.com/downloadprod/wp-content/uploads/2025/04/37/68123ba44ad37/net.openvpn.openvpn_3.7.1-10568_4arch_7dpi_26lang_0d8e7e5a7c579e68f4b5f283e13172da_apkmirror.com.apkm?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=72a5ba3a0b8a601e535d5525f12f8177%2F20251221%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20251221T102602Z&X-Amz-SignedHeaders=host&X-Amz-Expires=3600&X-Amz-Signature=5976b9a7e8d5e0b7d57026d951f2adf4f15e3eb8a4f2e63c1b96a4c6851f659b]|浏览器下载|
 
