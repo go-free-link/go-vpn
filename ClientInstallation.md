@@ -25,7 +25,9 @@ OpenVPN Connect 是由 **OpenVPN Inc.** 官方开发并维护的唯一全功能�
 | 操作系统 | 架构支持 | 官方下载路径 (Direct Link) | 
 | ----- | ----- | ----- | 
 | **Windows** | x86, x64, ARM64 | [Download OpenVPN Connect for Windows](https://openvpn.net/client-connect-vpn-for-windows/) | 
+| **Windows本地下载** | x86, x64, ARM64 | [Download OpenVPN Connect for Windows](https://openvpn.net/client-connect-vpn-for-windows/) | 
 | **macOS** | Intel, Apple Silicon | [Download OpenVPN Connect for macOS](https://openvpn.net/client-connect-vpn-for-mac-os/) | 
+| **macOS本地下载** | Intel, Apple Silicon | [Download OpenVPN Connect for macOS](https://openvpn.net/client-connect-vpn-for-mac-os/) | 
 
 ### 2. 移动端 (Mobile Terminals)
 
